@@ -1,3 +1,5 @@
+localhost
+127.0.0.1
 google.com
 google.co.id
 googleusercontent.com
